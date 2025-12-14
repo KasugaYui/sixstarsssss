@@ -24,7 +24,8 @@
 .fight-stick .trigger-button {
   width: 123px;
   height: 123px;
-  background: #333333;
+  background: url(images/buttons.svg) no-repeat;
+  background-size: cover;
   border-radius: 100%;
   opacity: 1;
   display: block;
@@ -40,10 +41,12 @@
   float: right;
   bottom: 4px;
   right: 42px;
+  opacity: 0;
 }
 
 .fight-stick .trigger-button.right {
   float: left;
+  background-position: -254px 0;
 }
 
 .fight-stick .bumpers {
@@ -57,7 +60,8 @@
 .fight-stick .bumper {
   width: 123px;
   height: 123px;
-  background: #333333;
+  background: url(images/buttons.svg) no-repeat;
+  background-size: cover;
   border-radius: 100%;
   opacity: 1;
   display: block;
@@ -73,10 +77,12 @@
   float: right;
   bottom: 4px;
   right: 11px;
+  opacity: 0;
 }
 
 .fight-stick .bumper.right {
   float: left;
+  background-position: -506px 0;
 }
 
 .fight-stick .quadrant {
@@ -149,7 +155,8 @@
 .fight-stick .button {
   width: 123px;
   height: 123px;
-  background: #333333;
+  background: url(images/buttons.svg) no-repeat;
+  background-size: cover;
   border-radius: 100%;
   opacity: 1;
   display: block;
@@ -164,21 +171,25 @@
 .fight-stick .a {
   bottom: 0px;
   left: 0px;
+  background-position: 0px 0px;
 }
 
 .fight-stick .b {
   bottom: 66px;
   right: 31px;
+  background-position: -125px 0;
 }
 
 .fight-stick .x {
   top: 66px;
   left: 33px;
+  background-position: -380px 0;
 }
 
 .fight-stick .y {
   right: 0px;
   top: 0px;
+  opacity: 0;
 }
 
 .fight-stick .fstick {
