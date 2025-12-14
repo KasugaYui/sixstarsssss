@@ -1,53 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 1122 534" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g>
-        <g>
-            <circle cx="565.8" cy="192.5" r="72"/>
-            <circle cx="565.8" cy="192.5" r="61.7" style="fill:rgb(236,196,0);"/>
-            <g transform="matrix(1,0,0,1,0.637473,-139.383)">
-                <g transform="matrix(120,0,0,120,609.547,373.895)">
-                </g>
-                <text x="521.071px" y="373.895px" style="font-family:'Gadugi-Bold', 'Gadugi';font-weight:700;font-size:120px;fill:white;">D</text>
-            </g>
-        </g>
-        <g>
-            <circle cx="888.8" cy="154.5" r="72"/>
-            <circle cx="888.8" cy="154.5" r="61.7" style="fill:rgb(88,25,198);"/>
-            <g transform="matrix(1,0,0,1,323.637,-177.383)">
-                <g transform="matrix(120,0,0,120,597.243,373.895)">
-                </g>
-                <text x="533.375px" y="373.895px" style="font-family:'Gadugi-Bold', 'Gadugi';font-weight:700;font-size:120px;fill:white;">E</text>
-            </g>
-        </g>
-        <g>
-            <circle cx="857.8" cy="336.5" r="72"/>
-            <circle cx="857.8" cy="336.5" r="61.7" style="fill:rgb(90,203,55);"/>
-            <g transform="matrix(1,0,0,1,287.843,4.58749)">
-                <g transform="matrix(120,0,0,120,602.75,373.895)">
-                </g>
-                <text x="527.868px" y="373.895px" style="font-family:'Gadugi-Bold', 'Gadugi';font-weight:700;font-size:120px;fill:white;">C</text>
-            </g>
-        </g>
-        <g>
-            <circle cx="688.8" cy="308.5" r="72"/>
-            <circle cx="688.8" cy="308.5" r="61.7" style="fill:rgb(44,182,255);"/>
-        </g>
-        <g transform="matrix(1,0,0,1,123.637,-23.3832)">
-            <g transform="matrix(120,0,0,120,603.776,373.895)">
-            </g>
-            <text x="526.842px" y="373.895px" style="font-family:'Gadugi-Bold', 'Gadugi';font-weight:700;font-size:120px;fill:white;">B</text>
-        </g>
-        <g>
-            <circle cx="532.8" cy="373.5" r="72"/>
-            <circle cx="532.8" cy="373.5" r="61.7" style="fill:rgb(234,22,60);"/>
-            <g transform="matrix(1,0,0,1,-32.3625,41.6168)">
-                <g transform="matrix(120,0,0,120,607.497,373.895)">
-                </g>
-                <text x="523.122px" y="373.895px" style="font-family:'Gadugi-Bold', 'Gadugi';font-weight:700;font-size:120px;fill:white;">A</text>
-            </g>
-        </g>
-    </g>
     <circle cx="303.8" cy="308.5" r="57"/>
     <g>
         <circle cx="82.4" cy="92.5" r="41"/>
