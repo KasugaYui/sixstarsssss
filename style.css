@@ -46,7 +46,7 @@
 
 .fight-stick .trigger-button.right {
     float: left;
-    background-position: -254px 0;
+    background-position: -506px 0;
 }
 
 .fight-stick .bumpers {
@@ -82,7 +82,7 @@
 
 .fight-stick .bumper.right {
     float: left;
-    background-position: -506px 0;
+    background-position: -254px 0;
 }
 
 .fight-stick .quadrant {
@@ -183,6 +183,7 @@
 .fight-stick .x {
     bottom: 0px;
     left: 0px;
+    top: unset;
     background-position: -380px 0;
 
 }
