@@ -81,8 +81,8 @@
 }
 
 .fight-stick .bumper.right {
-    float: left;
-    background-position: -254px 0;
+  float: left;
+  background-position: -254px 0;
 }
 
 .fight-stick .quadrant {
@@ -169,27 +169,28 @@
 }
 
 .fight-stick .a {
-    top: 66px;
-    left: 33px;
-    background-position: -380px 0;
+  bottom: 0px;
+  left: 0px;
+  background-position: -380px 0;
 }
 
 .fight-stick .b {
-    right: 0px;
-    top: 0px;
-    opacity: 0;
+  bottom: 66px;
+  right: 31px;
+  opacity: 0;
 }
 
 .fight-stick .x {
-
-  bottom: 0px;
-  left: 0px;
+  top: 66px;
+  left: 33px;
+  background-position: -380px 0;
   background-position: 0px 0px;
+
 }
 
 .fight-stick .y {
-  bottom: 66px;
-  right: 31px;
+  right: 0px;
+  top: 0px;
   background-position: -125px 0;
 }
 
